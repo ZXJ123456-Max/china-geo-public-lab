@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://china-geo-public-lab.pages.dev/sitemap.xml
